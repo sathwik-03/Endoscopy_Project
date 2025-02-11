@@ -84,3 +84,5 @@ history = model.fit(
 # ✅ Save Model
 model.save("endoscopy_segmentation_model.h5")
 print("✅ Model training complete and saved as 'endoscopy_segmentation_model.h5'")
+
+print('change 2')
