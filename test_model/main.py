@@ -48,3 +48,5 @@ def predict_image(image_path):
 # Test on an image (Change path as needed)
 test_image_path = './pre_processed/healthy/test_image.jpg'  # Update path if needed
 predict_image(test_image_path)
+
+print("Test branch")
