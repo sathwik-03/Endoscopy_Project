@@ -50,3 +50,4 @@ test_image_path = './pre_processed/healthy/test_image.jpg'  # Update path if nee
 predict_image(test_image_path)
 
 print("Test branch")
+print("hello")
